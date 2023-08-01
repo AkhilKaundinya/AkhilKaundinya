@@ -1,3 +1,6 @@
+
+![github-header-image (1)](https://github.com/AkhilKaundinya/AkhilKaundinya/assets/91441141/f969c08f-8780-45cb-98a4-4372e554ebbd)
+
 <h1 align="center">Hi 👋, I'm Akhil kaundinya Metlakaunta</h1>
 <h3 align="center">Graduate Student|Data Enthusiast|Data Analyst</h3>
 <img align="right" alt="Coding" width="400" src="https://cdn.dribbble.com/users/116207...](https://tenor.com/view/programmer-gif-19019116](https://media.tenor.com/NOYF3f82b_gAAAAC/programmer.gif">
