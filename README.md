@@ -3,11 +3,19 @@
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=akhilkaundinya&label=Profile%20views&color=0e75b6&style=flat" alt="akhilkaundinya" /> </p>
 
-- 🌱 I’m currently learning **Learning AWS and ETL tools**
+Passionate about the limitless potential of data, I am a dedicated Data Enthusiast eager to delve into the dynamic world of data analytics. With a strong desire to unravel valuable insights and a thirst for continuous learning, my mission is to create a profound impact through the transformative capabilities of data. 
 
-- 📫 How to reach me **metlakunta.a@northeastern.edu**
+📊 Data Exploration & Visualization: As a data enthusiast, I thrive on immersing myself in intricate datasets, unearthing valuable patterns, and transforming them into captivating visualizations. Proficient in Python, SQL, and Power BI, I aim to breathe life into data, crafting compelling narratives that drive informed decision-making.
 
-- ⚡ Fun fact **The global datasphere has 90% replicated data and 10% unique data.**
+🔧 Aspiring Data Analyst & Beyond: With aspirations to become a Data Analyst and beyond, my driving force is to utilize my skills in enabling businesses to embrace data-driven strategies. Embracing challenges as learning opportunities, I continually seek innovative ways to optimize data and enhance its value. 
+
+🚀 Fueling Data-Driven Innovation: As a true data enthusiast, I am invigorated by the idea of fostering innovation through data. My ultimate goal is to contribute to organizations by unlocking the full potential of their data, empowering them to achieve greater efficiencies, identify new opportunities, and ultimately achieve success. 
+
+🌟 Joining the Data Revolution: If you are seeking a passionate data enthusiast who loves exploring the vast world of data, let's connect! Together, we can embark on an exciting journey to harness the power of data and pave the way for a data-driven future.
+
+*   🌍  I'm based in Boston, Massachusetts
+*   ✉️  You can contact me at [metlakunta.a@northeastern.edu](mailto:metlakunta.a@northeastern.edu)
+*   🧠  I'm learning Amazon Web service and ETL tools### Skills 
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
@@ -22,3 +30,9 @@
 <p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=akhilkaundinya&show_icons=true&locale=en" alt="akhilkaundinya" /></p>
 
 <p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=akhilkaundinya&" alt="akhilkaundinya" /></p>
+
+
+
+
+
+
