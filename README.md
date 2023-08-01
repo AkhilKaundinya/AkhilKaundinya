@@ -33,7 +33,5 @@ Passionate about the limitless potential of data, I am a dedicated Data Enthusia
 
 <!-- Proudly created with GPRM ( https://gprm.itsvg.in ) -->
 
-<p align="left"> <a href="https://www.github.com/AkhilKaundinya" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/github.svg" width="32" height="32" /></a> <a href="https://www.linkedin.com/in/akhil-kaundinya" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/linkedin.svg" width="32" height="32" /></a></p>
-
 
 
