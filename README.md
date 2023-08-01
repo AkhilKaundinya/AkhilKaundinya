@@ -1,10 +1,6 @@
 
 ![github-header-image (1)](https://github.com/AkhilKaundinya/AkhilKaundinya/assets/91441141/f969c08f-8780-45cb-98a4-4372e554ebbd)
 
-<h1 align="center">Hi 👋, I'm Akhil kaundinya Metlakaunta</h1>
-<h3 align="center">Graduate Student|Data Enthusiast|Data Analyst</h3>
-<img align="right" alt="Coding" width="400" src="https://cdn.dribbble.com/users/116207...](https://tenor.com/view/programmer-gif-19019116](https://media.tenor.com/NOYF3f82b_gAAAAC/programmer.gif">
-
 # 💫 About Me:
 Passionate about the limitless potential of data, I am a dedicated Data Enthusiast eager to delve into the dynamic world of data analytics. With a strong desire to unravel valuable insights and a thirst for continuous learning, my mission is to create a profound impact through the transformative capabilities of data.<br><br>🌟 Joining the Data Revolution:<br>If you are seeking a passionate data enthusiast who loves exploring the vast world of data, let's connect! Together, we can embark on an exciting journey to harness the power of data and pave the way for a data-driven future.<br><br>👯 I’m looking to collaborate on data related projects<br>🌱 I’m currently learning AWS and ETL tools<br>⚡ Fun fact The global datasphere has 90% replicated data and 10% unique data.
 
