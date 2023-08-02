@@ -22,6 +22,15 @@ Passionate about the limitless potential of data, I am a dedicated Data Enthusia
 <a href="https://pytorch.org/" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/pytorch-colored.svg" width="36" height="36" alt="PyTorch" /></a>
 </p>
 
+## Stats
+
+<a href="http://www.github.com/AkhilKaundinya"><img src="https://github-readme-stats.vercel.app/api?username=AkhilKaundinya&show_icons=true&hide=&count_private=true&title_color=0891b2&text_color=ffffff&icon_color=0891b2&bg_color=1c1917&hide_border=true&show_icons=true" alt="AkhilKaundinya's GitHub stats" /></a>
+
+<a href="http://www.github.com/AkhilKaundinya"><img src="https://github-readme-streak-stats.herokuapp.com/?user=AkhilKaundinya&stroke=ffffff&background=1c1917&ring=0891b2&fire=0891b2&currStreakNum=ffffff&currStreakLabel=0891b2&sideNums=ffffff&sideLabels=ffffff&dates=ffffff&hide_border=true" /></a>
+
+<a href="http://www.github.com/AkhilKaundinya"><img src="https://github-readme-activity-graph.cyclic.app/graph?username=AkhilKaundinya&bg_color=1c1917&color=ffffff&line=0891b2&point=ffffff&area_color=1c1917&area=true&hide_border=true&custom_title=GitHub%20Commits%20Graph" alt="GitHub Commits Graph" /></a>
+
+
 ## 🏆 GitHub Trophies
 ![](https://github-profile-trophy.vercel.app/?username=AkhilKaundinya&theme=dark_dimmed&no-frame=false&no-bg=false&margin-w=4)
 
@@ -32,6 +41,19 @@ Passionate about the limitless potential of data, I am a dedicated Data Enthusia
 [![](https://visitcount.itsvg.in/api?id=AkhilKaundinya&icon=3&color=0)](https://visitcount.itsvg.in)
 
 <!-- Proudly created with GPRM ( https://gprm.itsvg.in ) -->
+
+### Stats
+
+<a href="http://www.github.com/AkhilKaundinya"><img src="https://github-readme-stats.vercel.app/api?username=AkhilKaundinya&show_icons=true&hide=&count_private=true&title_color=0891b2&text_color=ffffff&icon_color=0891b2&bg_color=1c1917&hide_border=true&show_icons=true" alt="AkhilKaundinya's GitHub stats" /></a>
+
+<a href="http://www.github.com/AkhilKaundinya"><img src="https://github-readme-streak-stats.herokuapp.com/?user=AkhilKaundinya&stroke=ffffff&background=1c1917&ring=0891b2&fire=0891b2&currStreakNum=ffffff&currStreakLabel=0891b2&sideNums=ffffff&sideLabels=ffffff&dates=ffffff&hide_border=true" /></a>
+
+<a href="http://www.github.com/AkhilKaundinya"><img src="https://github-readme-activity-graph.cyclic.app/graph?username=AkhilKaundinya&bg_color=1c1917&color=ffffff&line=0891b2&point=ffffff&area_color=1c1917&area=true&hide_border=true&custom_title=GitHub%20Commits%20Graph" alt="GitHub Commits Graph" /></a>
+
+### Repositories
+
+<div width="100%" align="center"><a href="https://github.com/AkhilKaundinya/Tweeter-Sentiment-Analysis" align="left"><img align="left" width="45%" src="https://github-readme-stats.vercel.app/api/pin/?username=AkhilKaundinya&repo=Tweeter-Sentiment-Analysis&title_color=0891b2&text_color=ffffff&icon_color=0891b2&bg_color=1c1917&hide_border=true&locale=en" /></a><a href="https://github.com/AkhilKaundinya/NYC-Dallas-Chicago_FI" align="right"><img align="right" width="45%" src="https://github-readme-stats.vercel.app/api/pin/?username=AkhilKaundinya&repo=NYC-Dallas-Chicago_FI&title_color=0891b2&text_color=ffffff&icon_color=0891b2&bg_color=1c1917&hide_border=true&locale=en" /></a></div><br /><br /><br /><br /><br /><br /><br />
+<div width="100%" align="center"><a href="https://github.com/AkhilKaundinya/NYC-Motor-Vehicle-Collision" align="left"><img align="left" width="45%" src="https://github-readme-stats.vercel.app/api/pin/?username=AkhilKaundinya&repo=NYC-Motor-Vehicle-Collision&title_color=0891b2&text_color=ffffff&icon_color=0891b2&bg_color=1c1917&hide_border=true&locale=en" /></a><a href="https://github.com/AkhilKaundinya/Iowa-Liquor-Sales" align="right"><img align="right" width="45%" src="https://github-readme-stats.vercel.app/api/pin/?username=AkhilKaundinya&repo=Iowa-Liquor-Sales&title_color=0891b2&text_color=ffffff&icon_color=0891b2&bg_color=1c1917&hide_border=true&locale=en" /></a></div>
 
 
 
