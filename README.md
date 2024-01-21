@@ -22,12 +22,7 @@ Passionate about the limitless potential of data, I am a dedicated Data Enthusia
 <a href="https://pytorch.org/" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/pytorch-colored.svg" width="36" height="36" alt="PyTorch" /></a>
 </p>
 
-# 📊 GitHub Stats:
-![](https://github-readme-stats.vercel.app/api?username=AkhilKaundinya&theme=vue-dark&hide_border=false&include_all_commits=true&count_private=true)<br/>
-![](https://github-readme-streak-stats.herokuapp.com/?user=AkhilKaundinya&theme=vue-dark&hide_border=false)<br/>
 
-# 🏆 GitHub Trophies
-![](https://github-profile-trophy.vercel.app/?username=AkhilKaundinya&theme=dark_dimmed&no-frame=false&no-bg=false&margin-w=4)
 
 # 🔝 Top  Repositories
 <div width="100%" align="center"><a href="https://github.com/AkhilKaundinya/Tweeter-Sentiment-Analysis" align="left"><img align="left" width="45%" src="https://github-readme-stats.vercel.app/api/pin/?username=AkhilKaundinya&repo=Tweeter-Sentiment-Analysis&title_color=0891b2&text_color=ffffff&icon_color=0891b2&bg_color=1c1917&hide_border=true&locale=en" /></a><a href="https://github.com/AkhilKaundinya/NYC-Dallas-Chicago_FI" align="right"><img align="right" width="45%" src="https://github-readme-stats.vercel.app/api/pin/?username=AkhilKaundinya&repo=NYC-Dallas-Chicago_FI&title_color=0891b2&text_color=ffffff&icon_color=0891b2&bg_color=1c1917&hide_border=true&locale=en" /></a></div><br /><br /><br /><br /><br /><br /><br />
