@@ -3,6 +3,9 @@
 # 💫 About Me:
 Passionate about the limitless potential of data, I am a dedicated Data Enthusiast eager to delve into the dynamic world of data analytics. With a strong desire to unravel valuable insights and a thirst for continuous learning, my mission is to create a profound impact through the transformative capabilities of data.<br><br>🌟 Joining the Data Revolution:<br>If you are seeking a passionate data enthusiast who loves exploring the vast world of data, let's connect! Together, we can embark on an exciting journey to harness the power of data and pave the way for a data-driven future.<br><br>👯 I’m looking to collaborate on data related projects<br>🌱 I’m currently learning AWS and ETL tools<br>⚡ Fun fact The global datasphere has 90% replicated data and 10% unique data.
 
+# Resume:
+https://github.com/AkhilKaundinya/AkhilKaundinya/blob/main/Resume_Akhil.pdf
+
 
 # 🌐 Socials:
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://linkedin.com/in/akhil-kaundinya) 
